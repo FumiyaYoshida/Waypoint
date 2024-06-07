@@ -89,7 +89,7 @@ const Tonamino = () => {
 					.setHTML(html)
 					.addTo(map.current);
 
-				const marker = new mapboxgl.Marker()
+				new mapboxgl.Marker()
 					.setLngLat([point.longitude, point.latitude])
 					.setPopup(popup)
 					.addTo(map.current);
