@@ -1,0 +1,596 @@
+[
+  {
+    "id": "A51",
+    "formal_id": "A51084",
+    "name_ja": "\u30a2\u30ea\u30fc\u30ca",
+    "name_en": "ARENA",
+    "altitude": 819,
+    "latitude": 35.38414,
+    "longitude": 138.58308
+  },
+  {
+    "id": "A52",
+    "formal_id": "A52072",
+    "name_ja": "Wing Kiss LD",
+    "name_en": "WINGKISS-LD",
+    "altitude": 718,
+    "latitude": 35.37257,
+    "longitude": 138.55515
+  },
+  {
+    "id": "A53",
+    "formal_id": "A53094",
+    "name_ja": "\u770c\u5883\u8fd1\u304fLD",
+    "name_en": "KENKYO-LD",
+    "altitude": 937,
+    "latitude": 35.42567,
+    "longitude": 138.59386
+  },
+  {
+    "id": "A54",
+    "formal_id": "A54021",
+    "name_ja": "\u829d\u5ddd(\u571f\u5ca9)\uff2c\uff24",
+    "name_en": "SHIBAKAWA",
+    "altitude": 217,
+    "latitude": 35.26668,
+    "longitude": 138.55821
+  },
+  {
+    "id": "A55",
+    "formal_id": "A55047",
+    "name_ja": "\u5927\u5009\u30c0\u30e0\uff2c\uff24",
+    "name_en": "OKURADAM-LD",
+    "altitude": 464,
+    "latitude": 35.29888,
+    "longitude": 138.57161
+  },
+  {
+    "id": "A56",
+    "formal_id": "A56086",
+    "name_ja": "\u4e16\u754c\u5730\u56f3(\u771f\u5149\uff09",
+    "name_en": "SEKAICHIZU",
+    "altitude": 855,
+    "latitude": 35.3848,
+    "longitude": 138.60292
+  },
+  {
+    "id": "A57",
+    "formal_id": "A57091",
+    "name_ja": "\u672c\u6816\u30b4\u30fc\u30eb",
+    "name_en": "MOTOSU-GOAL",
+    "altitude": 910,
+    "latitude": 35.45506,
+    "longitude": 138.59627
+  },
+  {
+    "id": "A58",
+    "formal_id": "A58057",
+    "name_ja": "\u98a8\u306e\u6e6f \u7a7a\u304d\u5730",
+    "name_en": "KAZE NO YU",
+    "altitude": 565,
+    "latitude": 35.32972,
+    "longitude": 138.59508
+  },
+  {
+    "id": "A59",
+    "formal_id": "A59066",
+    "name_ja": "\u6728\u5cf6\u7267\u5834",
+    "name_en": "KIJIMA PASTURE",
+    "altitude": 664,
+    "latitude": 35.35585,
+    "longitude": 138.58276
+  },
+  {
+    "id": "A60",
+    "formal_id": "A60067",
+    "name_ja": "\u7530\u8cab\u6e56",
+    "name_en": "LAKE TANUKI",
+    "altitude": 667,
+    "latitude": 35.34116,
+    "longitude": 138.55916
+  },
+  {
+    "id": "A61",
+    "formal_id": "A61099",
+    "name_ja": "\u9cf4\u6ca2\u30b4\u30fc\u30eb",
+    "name_en": "NARUSAWA GOAL",
+    "altitude": 986,
+    "latitude": 35.47722,
+    "longitude": 138.69502
+  },
+  {
+    "id": "A62",
+    "formal_id": "A62083",
+    "name_ja": "\u3075\u3082\u3068\u3063\u3071\u3089\u30b4\u30fc\u30eb",
+    "name_en": "FUMOTOPPARA GOAL",
+    "altitude": 829,
+    "latitude": 35.39973,
+    "longitude": 138.56334
+  },
+  {
+    "id": "A63",
+    "formal_id": "A63063",
+    "name_ja": "YMCA\u30b4\u30fc\u30eb",
+    "name_en": "YMCA GOAL",
+    "altitude": 626,
+    "latitude": 35.34015,
+    "longitude": 138.58086
+  },
+  {
+    "id": "B01",
+    "formal_id": "B01110",
+    "name_ja": "\u5357\u5c3e\u6839\u4e2d\u9593",
+    "name_en": "SOUTH-RIDGE-CENTER",
+    "altitude": 1092,
+    "latitude": 35.36192,
+    "longitude": 138.54292
+  },
+  {
+    "id": "B02",
+    "formal_id": "B02090",
+    "name_ja": "\u53cd\u5c04\u677f",
+    "name_en": "REFLECTION-BOARD",
+    "altitude": 873,
+    "latitude": 35.37942,
+    "longitude": 138.56386
+  },
+  {
+    "id": "B06",
+    "formal_id": "B06078",
+    "name_ja": "\u3082\u3061\u3084\uff08\u4e38\u5c4b\u6839\u4e2d\u592e\uff09",
+    "name_en": "MOCHIYA",
+    "altitude": 749,
+    "latitude": 35.37144,
+    "longitude": 138.57652
+  },
+  {
+    "id": "B08",
+    "formal_id": "B08071",
+    "name_ja": "\u8fb2\u9053\u5341\u5b57\u8def",
+    "name_en": "CROSSROADS",
+    "altitude": 715,
+    "latitude": 35.36648,
+    "longitude": 138.55875
+  },
+  {
+    "id": "B11",
+    "formal_id": "B11115",
+    "name_ja": "\u897f\u5bcc\u58eb\uff34\uff2f",
+    "name_en": "WEST-FUJI-TAKEOF",
+    "altitude": 1156,
+    "latitude": 35.37563,
+    "longitude": 138.53922
+  },
+  {
+    "id": "B12",
+    "formal_id": "B12131",
+    "name_ja": "\u671d\u9727\u9ad8\u539f\uff30\uff27\uff33\u3000\uff34\uff2f",
+    "name_en": "DK-TO",
+    "altitude": 1295,
+    "latitude": 35.41544,
+    "longitude": 138.56607
+  },
+  {
+    "id": "B13",
+    "formal_id": "B13129",
+    "name_ja": "\u7802\u9632\u30c0\u30e0",
+    "name_en": "LANDSLIDE-PREVEN",
+    "altitude": 1345,
+    "latitude": 35.37564,
+    "longitude": 138.53265
+  },
+  {
+    "id": "B14",
+    "formal_id": "B14069",
+    "name_ja": "\u8d64\u30ec\u30f3\u30ac\u306e\u5bb6",
+    "name_en": "RED-BRICK-HOUSE",
+    "altitude": 699,
+    "latitude": 35.35588,
+    "longitude": 138.55608
+  },
+  {
+    "id": "B15",
+    "formal_id": "B15131",
+    "name_ja": "\u5929\u5b50\u5c71\u9802\u30d9\u30f3\u30c1",
+    "name_en": "MT-TENSHI-TOP",
+    "altitude": 1289,
+    "latitude": 35.32914,
+    "longitude": 138.53664
+  },
+  {
+    "id": "B16",
+    "formal_id": "B16160",
+    "name_ja": "\u990a\u6bdb\u5c71\u9802",
+    "name_en": "MT-YOMO",
+    "altitude": 1587,
+    "latitude": 35.38955,
+    "longitude": 138.5356
+  },
+  {
+    "id": "B17",
+    "formal_id": "B17083",
+    "name_ja": "\u6771\u4eac\u8fb2\u5927\u5b9f\u7fd2\u5834",
+    "name_en": "TOKYO-UNIVERSITY",
+    "altitude": 835,
+    "latitude": 35.401,
+    "longitude": 138.56233
+  },
+  {
+    "id": "B18",
+    "formal_id": "B18082",
+    "name_ja": "\u30b0\u30ea\u30fc\u30f3\u30d1\u30fc\u30af",
+    "name_en": "GREEN-PARK",
+    "altitude": 822,
+    "latitude": 35.38997,
+    "longitude": 138.57072
+  },
+  {
+    "id": "B19",
+    "formal_id": "B19088",
+    "name_ja": "\u65e7\uff24\uff2b\u8fb2\u5354\u8ca9\u58f2\u6240",
+    "name_en": "DK-NOKYO",
+    "altitude": 878,
+    "latitude": 35.40831,
+    "longitude": 138.58441
+  },
+  {
+    "id": "B20",
+    "formal_id": "B20095",
+    "name_ja": "\u5357\u5c3e\u6839\u5148\u7aef",
+    "name_en": "SOUTH-RIDGE",
+    "altitude": 940,
+    "latitude": 35.36222,
+    "longitude": 138.55214
+  },
+  {
+    "id": "B21",
+    "formal_id": "B21137",
+    "name_ja": "\u5357\u5c3e\u6839\u4ed8\u3051\u6839\u30d4\u30fc\u30af",
+    "name_en": "SOUTH-RIDGE-TOP",
+    "altitude": 1342,
+    "latitude": 35.36079,
+    "longitude": 138.53053
+  },
+  {
+    "id": "B22",
+    "formal_id": "B22195",
+    "name_ja": "\u6bdb\u7121\u5c71\u9802",
+    "name_en": "MT-KENASHI",
+    "altitude": 1917,
+    "latitude": 35.41414,
+    "longitude": 138.53812
+  },
+  {
+    "id": "B23",
+    "formal_id": "B23133",
+    "name_ja": "\u9577\u8005\u5cb3\u5c71\u9802",
+    "name_en": "CHOJADAKE-TOP",
+    "altitude": 1315,
+    "latitude": 35.34122,
+    "longitude": 138.53456
+  },
+  {
+    "id": "B24",
+    "formal_id": "B24072",
+    "name_ja": "\u8d64\u6c60\u77f3\u6cb9\u30b9\u30bf\u30f3\u30c9",
+    "name_en": "AKAIKE-GS",
+    "altitude": 709,
+    "latitude": 35.37034,
+    "longitude": 138.56522
+  },
+  {
+    "id": "B25",
+    "formal_id": "B25083",
+    "name_ja": "\u5927\u5009\u30c0\u30e0\u4ed8\u8fd1\u7a1c\u7dda\u30d4\u30fc\u30af",
+    "name_en": "OKURADAM-RIDGE",
+    "altitude": 825,
+    "latitude": 35.30246,
+    "longitude": 138.55821
+  },
+  {
+    "id": "B26",
+    "formal_id": "B26045",
+    "name_ja": "\u5927\u5009\u30c0\u30e0",
+    "name_en": "OKURADAM",
+    "altitude": 477,
+    "latitude": 35.30225,
+    "longitude": 138.56909
+  },
+  {
+    "id": "B27",
+    "formal_id": "B27086",
+    "name_ja": "\u5929\u5b50\u5c71\u7a1c\u7dda\u4e0a\uff37\uff30",
+    "name_en": "TENSI-SOUTH",
+    "altitude": 844,
+    "latitude": 35.3137,
+    "longitude": 138.54599
+  },
+  {
+    "id": "B28",
+    "formal_id": "B28102",
+    "name_ja": "\uff21\u30b3\u30fc\u30d7\u3075\u3058\u304c\u306d",
+    "name_en": "A COOP FUJIGANE",
+    "altitude": 1016,
+    "latitude": 35.41438,
+    "longitude": 138.6208
+  },
+  {
+    "id": "B29",
+    "formal_id": "B29068",
+    "name_ja": "\u4e95\u4e4b\u982d\u5c0f\u5b66\u6821",
+    "name_en": "INOKASHIRA ELEMENTARY SCHOOL",
+    "altitude": 678,
+    "latitude": 35.36155,
+    "longitude": 138.56509
+  },
+  {
+    "id": "B30",
+    "formal_id": "B30054",
+    "name_ja": "\u53e4\u8c37\u77f3\u6cb9\u30b9\u30bf\u30f3\u30c9",
+    "name_en": "FURUYA GAS STATION",
+    "altitude": 542,
+    "latitude": 35.32053,
+    "longitude": 138.57886
+  },
+  {
+    "id": "B31",
+    "formal_id": "B31057",
+    "name_ja": "\u307e\u304b\u3044\u306e\u7267\u5834",
+    "name_en": "MAKAINO PASTURE",
+    "altitude": 581,
+    "latitude": 35.33611,
+    "longitude": 138.58389
+  },
+  {
+    "id": "B32",
+    "formal_id": "B32067",
+    "name_ja": "\u7530\u8cab\u6e56\u7ba1\u7406\u4e8b\u52d9\u6240",
+    "name_en": "LAKE TANUKI OFFICE",
+    "altitude": 700,
+    "latitude": 35.34614,
+    "longitude": 138.55779
+  },
+  {
+    "id": "B33",
+    "formal_id": "B33073",
+    "name_ja": "\u30c9\u30b3\u30e2\u30fb\u30a2\u30f3\u30c6\u30ca",
+    "name_en": "DOCOMO ANTENNA",
+    "altitude": 730,
+    "latitude": 35.36722,
+    "longitude": 138.57001
+  },
+  {
+    "id": "B34",
+    "formal_id": "B34067",
+    "name_ja": "\u770c\u9053\u732a\u4e4b\u982d\uff34\u5b57\u8def",
+    "name_en": "INOKASHIRA T-CROSSING",
+    "altitude": 674,
+    "latitude": 35.35844,
+    "longitude": 138.57005
+  },
+  {
+    "id": "B35",
+    "formal_id": "B35066",
+    "name_ja": "\u770c\u9053\u7530\u8cab\u6e56\u5165\u308a\u53e3",
+    "name_en": "LAKE TANUKI ENTRANCE",
+    "altitude": 661,
+    "latitude": 35.34971,
+    "longitude": 138.57216
+  },
+  {
+    "id": "B36",
+    "formal_id": "B36059",
+    "name_ja": "\u770c\u9053\u5c0f\u7530\u6025T\u5b57\u8def",
+    "name_en": "ODAKYU T-CROSSING",
+    "altitude": 592,
+    "latitude": 35.33365,
+    "longitude": 138.57513
+  },
+  {
+    "id": "B37",
+    "formal_id": "B37040",
+    "name_ja": "\u718a\u7aaa\u767a\u96fb\u6240",
+    "name_en": "KUMAKUBO POWER PLANT",
+    "altitude": 405,
+    "latitude": 35.29629,
+    "longitude": 138.57986
+  },
+  {
+    "id": "B38",
+    "formal_id": "B38046",
+    "name_ja": "\u67da\u91ce\uff14\uff15\uff15\uff4d\u30d4\u30fc\u30af",
+    "name_en": "YUZUNO TOP",
+    "altitude": 455,
+    "latitude": 35.27988,
+    "longitude": 138.55852
+  },
+  {
+    "id": "B39",
+    "formal_id": "B39073",
+    "name_ja": "\u5927\u5009\u5357\uff17\uff13\uff10\uff4d\u30d4\u30fc\u30af",
+    "name_en": "OKURA SOUTH TOP",
+    "altitude": 733,
+    "latitude": 35.29297,
+    "longitude": 138.55528
+  },
+  {
+    "id": "B40",
+    "formal_id": "B40096",
+    "name_ja": "\u767d\u7cf8\uff34\uff2f\u897f\u30d4\u30fc\u30af",
+    "name_en": "SHIRAITO TO WEST",
+    "altitude": 958,
+    "latitude": 35.33193,
+    "longitude": 138.54922
+  },
+  {
+    "id": "B41",
+    "formal_id": "B41088",
+    "name_ja": "\u5317\u5c3e\u6839\u5317",
+    "name_en": "NORTH-RIDGE",
+    "altitude": 880,
+    "latitude": 35.37785,
+    "longitude": 138.54643
+  },
+  {
+    "id": "B42",
+    "formal_id": "B42072",
+    "name_ja": "\u4e2d\u5dde",
+    "name_en": "NAKASU",
+    "altitude": 720,
+    "latitude": 35.36612,
+    "longitude": 138.55089
+  },
+  {
+    "id": "B43",
+    "formal_id": "B43112",
+    "name_ja": "\uff13\u5c3e\u68391120\uff4d",
+    "name_en": "3ONE-RIDGE",
+    "altitude": 1120,
+    "latitude": 35.36689,
+    "longitude": 138.53607
+  },
+  {
+    "id": "B44",
+    "formal_id": "B44106",
+    "name_ja": "\u9577\u8005\u5c3e\u68391069\uff4d",
+    "name_en": "CHOJAONE-RIDGE",
+    "altitude": 1069,
+    "latitude": 35.34777,
+    "longitude": 138.54573
+  },
+  {
+    "id": "B45",
+    "formal_id": "B45071",
+    "name_ja": "\u897f\u5bcc\u58eb\u30cf\u30f3\u30b0\uff2c\uff24",
+    "name_en": "WEST-FUJI-HG-LD",
+    "altitude": 710,
+    "latitude": 35.36903,
+    "longitude": 138.55313
+  },
+  {
+    "id": "B46",
+    "formal_id": "B46134",
+    "name_ja": "\u7a1c\u7dda1340\uff4d\u30d4\u30fc\u30af",
+    "name_en": "HUMP 1340m",
+    "altitude": 1340,
+    "latitude": 35.36462,
+    "longitude": 138.52995
+  },
+  {
+    "id": "B47",
+    "formal_id": "B47128",
+    "name_ja": "\u7a1c\u7dda1280\uff4d\u3053\u3076",
+    "name_en": "HUMP 1280m",
+    "altitude": 1280,
+    "latitude": 35.35295,
+    "longitude": 138.53085
+  },
+  {
+    "id": "B48",
+    "formal_id": "B48157",
+    "name_ja": "\u718a\u68ee\u5c71\u5c71\u9802",
+    "name_en": "Mt.KUMAMORI TOP",
+    "altitude": 1574,
+    "latitude": 35.37909,
+    "longitude": 138.52797
+  },
+  {
+    "id": "B49",
+    "formal_id": "B49084",
+    "name_ja": "T\u5b57\u8def",
+    "name_en": "ASAGIRI-P",
+    "altitude": 841,
+    "latitude": 35.3915,
+    "longitude": 138.57561
+  },
+  {
+    "id": "B50",
+    "formal_id": "B50081",
+    "name_ja": "\u30b5\u30fc\u30af\u30ebK",
+    "name_en": "CIRCLE-K",
+    "altitude": 811,
+    "latitude": 35.38558,
+    "longitude": 138.57254
+  },
+  {
+    "id": "C81",
+    "formal_id": "C81377",
+    "name_ja": "\u5bcc\u58eb\u5c71",
+    "name_en": "Mt. Fuji",
+    "altitude": 3775,
+    "latitude": 35.36077,
+    "longitude": 138.7273
+  },
+  {
+    "id": "C82",
+    "formal_id": "C82202",
+    "name_ja": "\u5bcc\u58eb\u30b9\u30d0\u30eb\u30e9\u30a4\u30f3",
+    "name_en": "Fuji Subaru Line",
+    "altitude": 2024,
+    "latitude": 35.37297,
+    "longitude": 138.69254
+  },
+  {
+    "id": "C83",
+    "formal_id": "C83147",
+    "name_ja": "\u5927\u5ba4\u5c71",
+    "name_en": "Mt. Omuro",
+    "altitude": 1468,
+    "latitude": 35.44083,
+    "longitude": 138.65353
+  },
+  {
+    "id": "C84",
+    "formal_id": "C84078",
+    "name_ja": "\u5bcc\u58eb\u685c\u81ea\u7136\u5893\u5730\u516c\u5712",
+    "name_en": "Fuji Grave",
+    "altitude": 786,
+    "latitude": 35.34156,
+    "longitude": 138.62719
+  },
+  {
+    "id": "C85",
+    "formal_id": "C85050",
+    "name_ja": "\u4e0a\u4e95\u624b\uff29\uff23",
+    "name_en": "Kamiide IC",
+    "altitude": 497,
+    "latitude": 35.31171,
+    "longitude": 138.60242
+  },
+  {
+    "id": "C86",
+    "formal_id": "C86035",
+    "name_ja": "\u5927\u77f3\u5bfa",
+    "name_en": "Taisekiji",
+    "altitude": 345,
+    "latitude": 35.28384,
+    "longitude": 138.58613
+  },
+  {
+    "id": "C87",
+    "formal_id": "C87033",
+    "name_ja": "\u5317\u5c71\uff29\uff23",
+    "name_en": "Kitayama IC",
+    "altitude": 328,
+    "latitude": 35.27446,
+    "longitude": 138.61116
+  },
+  {
+    "id": "D71",
+    "formal_id": "D71105",
+    "name_ja": "Wing Kiss TO",
+    "name_en": "WINGKISS-TO",
+    "altitude": 1012,
+    "latitude": 35.37365,
+    "longitude": 138.54686
+  },
+  {
+    "id": "D72",
+    "formal_id": "D72117",
+    "name_ja": "\u897f\u5bcc\u58eb\uff34\uff2f\uff08\u4e0a\u6bb5\uff09",
+    "name_en": "WEST-FUJI-TAKEOF",
+    "altitude": 1167,
+    "latitude": 35.37593,
+    "longitude": 138.53944
+  }
+]

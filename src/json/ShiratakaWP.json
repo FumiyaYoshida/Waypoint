@@ -1,0 +1,371 @@
+[
+  {
+    "id": "A41",
+    "formal_id": "A41048",
+    "name_ja": "\u30e9\u30f3\u30c7\u30a3\u30f3\u30b0",
+    "name_en": "MAIN-LANDING",
+    "altitude": "497",
+    "latitude": 38.233094,
+    "longitude": 140.149172
+  },
+  {
+    "id": "A42",
+    "formal_id": "A42018",
+    "name_ja": "\u837b\u91ce\u30b4\u30fc\u30eb",
+    "name_en": "HAGINO-GOAL",
+    "altitude": "299",
+    "latitude": 38.205861,
+    "longitude": 140.124886
+  },
+  {
+    "id": "A43",
+    "formal_id": "A43018",
+    "name_ja": "\u8352\u7825\u6a4b\u30b4\u30fc\u30eb",
+    "name_en": "ARATO-BRIDGE-GOAL",
+    "altitude": "200",
+    "latitude": 38.179439,
+    "longitude": 140.081669
+  },
+  {
+    "id": "A44",
+    "formal_id": "A44019",
+    "name_ja": "\u6d45\u7acb\u30b4\u30fc\u30eb",
+    "name_en": "ASADATE-GOAL",
+    "altitude": "204",
+    "latitude": 38.147233,
+    "longitude": 140.059192
+  },
+  {
+    "id": "A46",
+    "formal_id": "A46009",
+    "name_ja": "\u4e2d\u5c71\u30b4\u30fc\u30eb",
+    "name_en": "NAKAYAMA-GOAL",
+    "altitude": "96",
+    "latitude": 38.348581,
+    "longitude": 140.274381
+  },
+  {
+    "id": "A47",
+    "formal_id": "A47020",
+    "name_ja": "\u5357\u967d\u30b4\u30fc\u30eb",
+    "name_en": "NANYO-GOAL",
+    "altitude": "220",
+    "latitude": 38.046442,
+    "longitude": 140.080311
+  },
+  {
+    "id": "A48",
+    "formal_id": "A48023",
+    "name_ja": "\u7c73\u6ca2\u30b4\u30fc\u30eb",
+    "name_en": "YONEZAWA-GOAL",
+    "altitude": "249",
+    "latitude": 37.946744,
+    "longitude": 140.098014
+  },
+  {
+    "id": "A49",
+    "formal_id": "A49023",
+    "name_ja": "\u9ad8\u7560\u30b4\u30fc\u30eb",
+    "name_en": "TAKAHATA-GOAL",
+    "altitude": "230",
+    "latitude": 38.0004,
+    "longitude": 140.137917
+  },
+  {
+    "id": "A50",
+    "formal_id": "A50016",
+    "name_ja": "\u671d\u65e5\u753a\u30b4\u30fc\u30eb",
+    "name_en": "ASAHIMACHI-GOAL",
+    "altitude": "150",
+    "latitude": 38.34795,
+    "longitude": 140.168692
+  },
+  {
+    "id": "A51",
+    "formal_id": "A51047",
+    "name_ja": "348LD",
+    "name_en": "348LD",
+    "altitude": "454",
+    "latitude": 38.207803,
+    "longitude": 140.152403
+  },
+  {
+    "id": "B02",
+    "formal_id": "B02099",
+    "name_ja": "\u767d\u9df9\u795e\u793e",
+    "name_en": "SHIRATAKA-SHRINE",
+    "altitude": "869",
+    "latitude": 38.222531,
+    "longitude": 140.173047
+  },
+  {
+    "id": "B03",
+    "formal_id": "B03052",
+    "name_ja": "TONBI-SHOP",
+    "name_en": "TONBI-SHOP",
+    "altitude": "535",
+    "latitude": 38.235833,
+    "longitude": 140.154156
+  },
+  {
+    "id": "B04",
+    "formal_id": "B04058",
+    "name_ja": "\u65b0\u5c71\u5e73",
+    "name_en": "SHINZAN-TAIRA",
+    "altitude": "524",
+    "latitude": 38.225583,
+    "longitude": 140.14725
+  },
+  {
+    "id": "B05",
+    "formal_id": "B05033",
+    "name_ja": "\u9df9\u5c71\u5c0f\u5b66\u6821",
+    "name_en": "TAKAYAMA-SCHOOL",
+    "altitude": "310",
+    "latitude": 38.203528,
+    "longitude": 140.132225
+  },
+  {
+    "id": "B06",
+    "formal_id": "B06038",
+    "name_ja": "\u4e00\u672c\u677e \u6c11\u5bb6",
+    "name_en": "IPPON-MATSU-HOUS",
+    "altitude": "385",
+    "latitude": 38.223269,
+    "longitude": 140.128186
+  },
+  {
+    "id": "B07",
+    "formal_id": "B07032",
+    "name_ja": "\u30d1\u30ec\u30b9\u677e\u98a8",
+    "name_en": "PALACE-SHOFU",
+    "altitude": "244",
+    "latitude": 38.194644,
+    "longitude": 140.111019
+  },
+  {
+    "id": "B08",
+    "formal_id": "B08054",
+    "name_ja": "\u8c5a\u5c0f\u5c4b",
+    "name_en": "TONSHA",
+    "altitude": "497",
+    "latitude": 38.255858,
+    "longitude": 140.136667
+  },
+  {
+    "id": "B09",
+    "formal_id": "B09044",
+    "name_ja": "\u767d\u9df9 \u5357\u659c\u9762",
+    "name_en": "DENPATO-ATO",
+    "altitude": "342",
+    "latitude": 38.213058,
+    "longitude": 140.117217
+  },
+  {
+    "id": "B10",
+    "formal_id": "B10079",
+    "name_ja": "\u897f\u9ed2\u68ee\u5c71",
+    "name_en": "NISHI-KUROMORI",
+    "altitude": "676",
+    "latitude": 38.249444,
+    "longitude": 140.171975
+  },
+  {
+    "id": "B11",
+    "formal_id": "B11075",
+    "name_ja": "\u6771\u9ed2\u68ee\u5c71",
+    "name_en": "HIGASHI-KUROMORI",
+    "altitude": "566",
+    "latitude": 38.250858,
+    "longitude": 140.195297
+  },
+  {
+    "id": "B12",
+    "formal_id": "B12050",
+    "name_ja": "\u4f5c\u696d\u5c0f\u5c4b",
+    "name_en": "HAGINO-SAGYOGOYA",
+    "altitude": "494",
+    "latitude": 38.214442,
+    "longitude": 140.149756
+  },
+  {
+    "id": "B13",
+    "formal_id": "B13040",
+    "name_ja": "\u91dd\u751f\u30ab\u30fc\u30d6",
+    "name_en": "HARIU-L-CURVE",
+    "altitude": "425",
+    "latitude": 38.245292,
+    "longitude": 140.127775
+  },
+  {
+    "id": "B14",
+    "formal_id": "B14066",
+    "name_ja": "\u72d0\u8d8a\u3048",
+    "name_en": "KITSUNEGOE",
+    "altitude": "674",
+    "latitude": 38.236664,
+    "longitude": 140.166706
+  },
+  {
+    "id": "B15",
+    "formal_id": "B15058",
+    "name_ja": "\u91d1\u525b\u5c71",
+    "name_en": "MT-KONGO",
+    "altitude": "455",
+    "latitude": 38.179339,
+    "longitude": 140.129783
+  },
+  {
+    "id": "B16",
+    "formal_id": "B16071",
+    "name_ja": "\u767d\u9df9",
+    "name_en": "SHIRATAKA-SOUTH-SLOPE",
+    "altitude": "626",
+    "latitude": 38.216497,
+    "longitude": 140.159772
+  },
+  {
+    "id": "B17",
+    "formal_id": "B17064",
+    "name_ja": "\u6edd\u91ce\u30d4\u30fc\u30af",
+    "name_en": "TAKINO-PEAK",
+    "altitude": "525",
+    "latitude": 38.200803,
+    "longitude": 140.155236
+  },
+  {
+    "id": "B18",
+    "formal_id": "B18055",
+    "name_ja": "\u304a\u52a9\u3051\u5c71",
+    "name_en": "OTASUKE-YAMA",
+    "altitude": "476",
+    "latitude": 38.24725,
+    "longitude": 140.148881
+  },
+  {
+    "id": "B19",
+    "formal_id": "B19019",
+    "name_ja": "\u5927\u6749\u6a4b",
+    "name_en": "OHSUGI-BRIDGE",
+    "altitude": "249",
+    "latitude": 38.2493,
+    "longitude": 140.104425
+  },
+  {
+    "id": "B20",
+    "formal_id": "B20018",
+    "name_ja": "\u9b8e\u8336\u5c4b",
+    "name_en": "AYUCHAYA",
+    "altitude": "206",
+    "latitude": 38.215669,
+    "longitude": 140.09805
+  },
+  {
+    "id": "B21",
+    "formal_id": "B21052",
+    "name_ja": "\u767d\u9df9\u30c8\u30f3\u30cd\u30eb",
+    "name_en": "SHIRATAKA-TUNNEL",
+    "altitude": "562",
+    "latitude": 38.207189,
+    "longitude": 140.161331
+  },
+  {
+    "id": "B22",
+    "formal_id": "B22039",
+    "name_ja": "\u5bcc\u795e\u5c71",
+    "name_en": "MT-TOMIGAMI",
+    "altitude": "209",
+    "latitude": 38.234778,
+    "longitude": 140.254753
+  },
+  {
+    "id": "B24",
+    "formal_id": "B24020",
+    "name_ja": "\u9577\u4e95\u6a4b",
+    "name_en": "NAGAI-BRIDGE",
+    "altitude": "206",
+    "latitude": 38.113728,
+    "longitude": 140.048544
+  },
+  {
+    "id": "B30",
+    "formal_id": "B30063",
+    "name_ja": "\u9df9\u6238\u5c4b\u5c71",
+    "name_en": "MT-TAKATOYA",
+    "altitude": "631",
+    "latitude": 38.146481,
+    "longitude": 140.126247
+  },
+  {
+    "id": "B31",
+    "formal_id": "B31045",
+    "name_ja": "\u6d77\u751f\u5730\u533a",
+    "name_en": "KUROFUJI",
+    "altitude": "451",
+    "latitude": 38.156736,
+    "longitude": 140.113158
+  },
+  {
+    "id": "B32",
+    "formal_id": "B32031",
+    "name_ja": "\u6f06\u5c71\u4e2d\u5b66\u6821",
+    "name_en": "URUSHIYAMA-SCHOOL",
+    "altitude": "307",
+    "latitude": 38.069831,
+    "longitude": 140.115633
+  },
+  {
+    "id": "B33",
+    "formal_id": "B33022",
+    "name_ja": "\u7159\u7a81",
+    "name_en": "INCINERATE",
+    "altitude": "214",
+    "latitude": 38.023992,
+    "longitude": 140.125403
+  },
+  {
+    "id": "B34",
+    "formal_id": "B34051",
+    "name_ja": "\u30d0\u30b9\u505c\u8de1",
+    "name_en": "BUS-STOP",
+    "altitude": "511",
+    "latitude": 38.244117,
+    "longitude": 140.157878
+  },
+  {
+    "id": "B35",
+    "formal_id": "B35041",
+    "name_ja": "\u90f5\u4fbf\u5c40",
+    "name_en": "POST-OFFICE",
+    "altitude": "403",
+    "latitude": 38.232111,
+    "longitude": 140.140581
+  },
+  {
+    "id": "BX1",
+    "formal_id": "BX1030",
+    "name_ja": "\u9577\u4e95\u30c0\u30e0",
+    "name_en": "NISHIYAMA-DAM",
+    "altitude": "299",
+    "latitude": 38.10115,
+    "longitude": 139.957444
+  },
+  {
+    "id": "BX2",
+    "formal_id": "BX2068",
+    "name_ja": "\u9ad8\u30c4\u30e0\u30b8 TO",
+    "name_en": "TAKATSUMUJI-TAKEOFF",
+    "altitude": "681",
+    "latitude": 38.066333,
+    "longitude": 140.204025
+  },
+  {
+    "id": "D61",
+    "formal_id": "D61095",
+    "name_ja": "\u767d\u9df9\u30c6\u30a4\u30af\u30aa\u30d5",
+    "name_en": "SHIRATAKA-TO",
+    "altitude": "760",
+    "latitude": 38.226139,
+    "longitude": 140.163328
+  }
+]

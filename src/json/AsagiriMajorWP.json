@@ -1,0 +1,236 @@
+[
+  {
+    "id": "A51",
+    "formal_id": "A51084",
+    "name_ja": "\u30a2\u30ea\u30fc\u30ca",
+    "name_en": "ARENA",
+    "altitude": 819,
+    "latitude": 35.38414,
+    "longitude": 138.58308
+  },
+  {
+    "id": "A52",
+    "formal_id": "A52072",
+    "name_ja": "Wing Kiss LD",
+    "name_en": "WINGKISS-LD",
+    "altitude": 718,
+    "latitude": 35.37257,
+    "longitude": 138.55515
+  },
+  {
+    "id": "A54",
+    "formal_id": "A54021",
+    "name_ja": "\u829d\u5ddd(\u571f\u5ca9)\uff2c\uff24",
+    "name_en": "SHIBAKAWA",
+    "altitude": 217,
+    "latitude": 35.26668,
+    "longitude": 138.55821
+  },
+  {
+    "id": "A56",
+    "formal_id": "A56086",
+    "name_ja": "\u4e16\u754c\u5730\u56f3(\u771f\u5149\uff09",
+    "name_en": "SEKAICHIZU",
+    "altitude": 855,
+    "latitude": 35.3848,
+    "longitude": 138.60292
+  },
+  {
+    "id": "A60",
+    "formal_id": "A60067",
+    "name_ja": "\u7530\u8cab\u6e56",
+    "name_en": "LAKE TANUKI",
+    "altitude": 667,
+    "latitude": 35.34116,
+    "longitude": 138.55916
+  },
+  {
+    "id": "A62",
+    "formal_id": "A62083",
+    "name_ja": "\u3075\u3082\u3068\u3063\u3071\u3089\u30b4\u30fc\u30eb",
+    "name_en": "FUMOTOPPARA GOAL",
+    "altitude": 829,
+    "latitude": 35.39973,
+    "longitude": 138.56334
+  },
+  {
+    "id": "A63",
+    "formal_id": "A63063",
+    "name_ja": "YMCA\u30b4\u30fc\u30eb",
+    "name_en": "YMCA GOAL",
+    "altitude": 626,
+    "latitude": 35.34015,
+    "longitude": 138.58086
+  },
+  {
+    "id": "B02",
+    "formal_id": "B02090",
+    "name_ja": "\u53cd\u5c04\u677f",
+    "name_en": "REFLECTION-BOARD",
+    "altitude": 873,
+    "latitude": 35.37942,
+    "longitude": 138.56386
+  },
+  {
+    "id": "B06",
+    "formal_id": "B06078",
+    "name_ja": "\u3082\u3061\u3084\uff08\u4e38\u5c4b\u6839\u4e2d\u592e\uff09",
+    "name_en": "MOCHIYA",
+    "altitude": 749,
+    "latitude": 35.37144,
+    "longitude": 138.57652
+  },
+  {
+    "id": "B11",
+    "formal_id": "B11115",
+    "name_ja": "\u897f\u5bcc\u58eb\uff34\uff2f",
+    "name_en": "WEST-FUJI-TAKEOF",
+    "altitude": 1156,
+    "latitude": 35.37563,
+    "longitude": 138.53922
+  },
+  {
+    "id": "B12",
+    "formal_id": "B12131",
+    "name_ja": "\u671d\u9727\u9ad8\u539f\uff30\uff27\uff33\u3000\uff34\uff2f",
+    "name_en": "DK-TO",
+    "altitude": 1295,
+    "latitude": 35.41544,
+    "longitude": 138.56607
+  },
+  {
+    "id": "B15",
+    "formal_id": "B15131",
+    "name_ja": "\u5929\u5b50\u5c71\u9802\u30d9\u30f3\u30c1",
+    "name_en": "MT-TENSHI-TOP",
+    "altitude": 1289,
+    "latitude": 35.32914,
+    "longitude": 138.53664
+  },
+  {
+    "id": "B16",
+    "formal_id": "B16160",
+    "name_ja": "\u990a\u6bdb\u5c71\u9802",
+    "name_en": "MT-YOMO",
+    "altitude": 1587,
+    "latitude": 35.38955,
+    "longitude": 138.5356
+  },
+  {
+    "id": "B22",
+    "formal_id": "B22195",
+    "name_ja": "\u6bdb\u7121\u5c71\u9802",
+    "name_en": "MT-KENASHI",
+    "altitude": 1917,
+    "latitude": 35.41414,
+    "longitude": 138.53812
+  },
+  {
+    "id": "B23",
+    "formal_id": "B23133",
+    "name_ja": "\u9577\u8005\u5cb3\u5c71\u9802",
+    "name_en": "CHOJADAKE-TOP",
+    "altitude": 1315,
+    "latitude": 35.34122,
+    "longitude": 138.53456
+  },
+  {
+    "id": "B26",
+    "formal_id": "B26045",
+    "name_ja": "\u5927\u5009\u30c0\u30e0",
+    "name_en": "OKURADAM",
+    "altitude": 477,
+    "latitude": 35.30225,
+    "longitude": 138.56909
+  },
+  {
+    "id": "B33",
+    "formal_id": "B33073",
+    "name_ja": "\u30c9\u30b3\u30e2\u30fb\u30a2\u30f3\u30c6\u30ca",
+    "name_en": "DOCOMO ANTENNA",
+    "altitude": 730,
+    "latitude": 35.36722,
+    "longitude": 138.57001
+  },
+  {
+    "id": "B38",
+    "formal_id": "B38046",
+    "name_ja": "\u67da\u91ce\uff14\uff15\uff15\uff4d\u30d4\u30fc\u30af",
+    "name_en": "YUZUNO TOP",
+    "altitude": 455,
+    "latitude": 35.27988,
+    "longitude": 138.55852
+  },
+  {
+    "id": "B43",
+    "formal_id": "B43112",
+    "name_ja": "\uff13\u5c3e\u68391120\uff4d",
+    "name_en": "3ONE-RIDGE",
+    "altitude": 1120,
+    "latitude": 35.36689,
+    "longitude": 138.53607
+  },
+  {
+    "id": "B48",
+    "formal_id": "B48157",
+    "name_ja": "\u718a\u68ee\u5c71\u5c71\u9802",
+    "name_en": "Mt.KUMAMORI TOP",
+    "altitude": 1574,
+    "latitude": 35.37909,
+    "longitude": 138.52797
+  },
+  {
+    "id": "B50",
+    "formal_id": "B50081",
+    "name_ja": "\u30b5\u30fc\u30af\u30ebK",
+    "name_en": "CIRCLE-K",
+    "altitude": 811,
+    "latitude": 35.38558,
+    "longitude": 138.57254
+  },
+  {
+    "id": "C81",
+    "formal_id": "C81377",
+    "name_ja": "\u5bcc\u58eb\u5c71",
+    "name_en": "Mt. Fuji",
+    "altitude": 3775,
+    "latitude": 35.36077,
+    "longitude": 138.7273
+  },
+  {
+    "id": "C83",
+    "formal_id": "C83147",
+    "name_ja": "\u5927\u5ba4\u5c71",
+    "name_en": "Mt. Omuro",
+    "altitude": 1468,
+    "latitude": 35.44083,
+    "longitude": 138.65353
+  },
+  {
+    "id": "C84",
+    "formal_id": "C84078",
+    "name_ja": "\u5bcc\u58eb\u685c\u81ea\u7136\u5893\u5730\u516c\u5712",
+    "name_en": "Fuji Grave",
+    "altitude": 786,
+    "latitude": 35.34156,
+    "longitude": 138.62719
+  },
+  {
+    "id": "C86",
+    "formal_id": "C86035",
+    "name_ja": "\u5927\u77f3\u5bfa",
+    "name_en": "Taisekiji",
+    "altitude": 345,
+    "latitude": 35.28384,
+    "longitude": 138.58613
+  },
+  {
+    "id": "D71",
+    "formal_id": "D71105",
+    "name_ja": "Wing Kiss TO",
+    "name_en": "WINGKISS-TO",
+    "altitude": 1012,
+    "latitude": 35.37365,
+    "longitude": 138.54686
+  }
+]

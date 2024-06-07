@@ -1,0 +1,479 @@
+[
+  {
+    "id": "D01",
+    "formal_id": "D01",
+    "name_ja": "",
+    "name_en": "DATEH TOWN",
+    "altitude": "",
+    "latitude": "11.5087890000",
+    "longitude": "107.4887440000"
+  },
+  {
+    "id": "D02",
+    "formal_id": "D02",
+    "name_ja": "",
+    "name_en": "MADAGUOI TOWN",
+    "altitude": "",
+    "latitude": "11.3857030000",
+    "longitude": "107.5343640000"
+  },
+  {
+    "id": "D03",
+    "formal_id": "D03",
+    "name_ja": "",
+    "name_en": "BAO LOC CITY",
+    "altitude": "",
+    "latitude": "11.5663250000",
+    "longitude": "107.8393310000"
+  },
+  {
+    "id": "D04",
+    "formal_id": "D04",
+    "name_ja": "",
+    "name_en": "CAT TIEN TOWN",
+    "altitude": "",
+    "latitude": "11.5838470000",
+    "longitude": "107.3624890000"
+  },
+  {
+    "id": "D05",
+    "formal_id": "D05",
+    "name_ja": "",
+    "name_en": "LOC BAO",
+    "altitude": "",
+    "latitude": "11.7415780000",
+    "longitude": "107.6559940000"
+  },
+  {
+    "id": "D06",
+    "formal_id": "D06",
+    "name_ja": "",
+    "name_en": "D06",
+    "altitude": "",
+    "latitude": "11.6979720000",
+    "longitude": "107.6322330000"
+  },
+  {
+    "id": "D07",
+    "formal_id": "D07",
+    "name_ja": "",
+    "name_en": "D07",
+    "altitude": "",
+    "latitude": "11.5641720000",
+    "longitude": "107.5071670000"
+  },
+  {
+    "id": "D08",
+    "formal_id": "D08",
+    "name_ja": "",
+    "name_en": "D08",
+    "altitude": "",
+    "latitude": "11.5306190000",
+    "longitude": "107.5216750000"
+  },
+  {
+    "id": "D09",
+    "formal_id": "D09",
+    "name_ja": "",
+    "name_en": "EAKMAT",
+    "altitude": "",
+    "latitude": "11.6250360000",
+    "longitude": "107.5790530000"
+  },
+  {
+    "id": "H01",
+    "formal_id": "H01",
+    "name_ja": "",
+    "name_en": "DATEH LAKE",
+    "altitude": "",
+    "latitude": "11.5735670000",
+    "longitude": "107.5681310000"
+  },
+  {
+    "id": "H02",
+    "formal_id": "H02",
+    "name_ja": "",
+    "name_en": "QUOC OAI LAKE",
+    "altitude": "",
+    "latitude": "11.6003920000",
+    "longitude": "107.4978530000"
+  },
+  {
+    "id": "H03",
+    "formal_id": "H03",
+    "name_ja": "",
+    "name_en": "DA M-RI LAKE",
+    "altitude": "",
+    "latitude": "11.5977280000",
+    "longitude": "107.6927000000"
+  },
+  {
+    "id": "H04",
+    "formal_id": "H04",
+    "name_ja": "",
+    "name_en": "H04",
+    "altitude": "",
+    "latitude": "11.6275250000",
+    "longitude": "107.8243000000"
+  },
+  {
+    "id": "H05",
+    "formal_id": "H05",
+    "name_ja": "",
+    "name_en": "H05",
+    "altitude": "",
+    "latitude": "11.3588830000",
+    "longitude": "107.9275470000"
+  },
+  {
+    "id": "H06",
+    "formal_id": "H06",
+    "name_ja": "",
+    "name_en": "H06",
+    "altitude": "",
+    "latitude": "11.8218390000",
+    "longitude": "107.8846560000"
+  },
+  {
+    "id": "H07",
+    "formal_id": "H07",
+    "name_ja": "",
+    "name_en": "H07",
+    "altitude": "",
+    "latitude": "11.3281890000",
+    "longitude": "107.4732420000"
+  },
+  {
+    "id": "H08",
+    "formal_id": "H08",
+    "name_ja": "",
+    "name_en": "H08",
+    "altitude": "",
+    "latitude": "11.5412140000",
+    "longitude": "107.4569580000"
+  },
+  {
+    "id": "L01",
+    "formal_id": "L01",
+    "name_ja": "",
+    "name_en": "LZ FLY DATEH",
+    "altitude": "",
+    "latitude": "11.5965500000",
+    "longitude": "107.5375750000"
+  },
+  {
+    "id": "L02",
+    "formal_id": "L02",
+    "name_ja": "",
+    "name_en": "LZ DATEH DAM",
+    "altitude": "",
+    "latitude": "11.5668440000",
+    "longitude": "107.5461830000"
+  },
+  {
+    "id": "L03",
+    "formal_id": "L03",
+    "name_ja": "",
+    "name_en": "LZ QUOC OAI",
+    "altitude": "",
+    "latitude": "11.6136110000",
+    "longitude": "107.5207190000"
+  },
+  {
+    "id": "L04",
+    "formal_id": "L04",
+    "name_ja": "",
+    "name_en": "LZ SOUTH",
+    "altitude": "",
+    "latitude": "11.5890390000",
+    "longitude": "107.5327970000"
+  },
+  {
+    "id": "L05",
+    "formal_id": "L05",
+    "name_ja": "",
+    "name_en": "LZ QUANG TRI",
+    "altitude": "",
+    "latitude": "11.5438750000",
+    "longitude": "107.5394030000"
+  },
+  {
+    "id": "L06",
+    "formal_id": "L06",
+    "name_ja": "",
+    "name_en": "LANDING DANHAR",
+    "altitude": "",
+    "latitude": "11.6284720000",
+    "longitude": "107.5391720000"
+  },
+  {
+    "id": "L07",
+    "formal_id": "L07",
+    "name_ja": "",
+    "name_en": "LZ QUOC OAI 2",
+    "altitude": "",
+    "latitude": "11.6015488023",
+    "longitude": "107.5115204300"
+  },
+  {
+    "id": "L08",
+    "formal_id": "L08",
+    "name_ja": "",
+    "name_en": "LZ PPG",
+    "altitude": "",
+    "latitude": "11.5807660578",
+    "longitude": "107.5290809288"
+  },
+  {
+    "id": "LCD",
+    "formal_id": "LCD",
+    "name_ja": "",
+    "name_en": "LANDING CHAN DEO",
+    "altitude": "",
+    "latitude": "11.5920970000",
+    "longitude": "107.5334060000"
+  },
+  {
+    "id": "M01",
+    "formal_id": "M01",
+    "name_ja": "",
+    "name_en": "M01",
+    "altitude": "",
+    "latitude": "11.6348920000",
+    "longitude": "107.5226220000"
+  },
+  {
+    "id": "M02",
+    "formal_id": "M02",
+    "name_ja": "",
+    "name_en": "M02",
+    "altitude": "",
+    "latitude": "11.6839330000",
+    "longitude": "107.5576610000"
+  },
+  {
+    "id": "M03",
+    "formal_id": "M03",
+    "name_ja": "",
+    "name_en": "M03",
+    "altitude": "",
+    "latitude": "11.5461170000",
+    "longitude": "107.5536170000"
+  },
+  {
+    "id": "M04",
+    "formal_id": "M04",
+    "name_ja": "",
+    "name_en": "M04",
+    "altitude": "",
+    "latitude": "11.5704940000",
+    "longitude": "107.6451110000"
+  },
+  {
+    "id": "M05",
+    "formal_id": "M05",
+    "name_ja": "",
+    "name_en": "M05",
+    "altitude": "",
+    "latitude": "11.5130170000",
+    "longitude": "107.6059780000"
+  },
+  {
+    "id": "M06",
+    "formal_id": "M06",
+    "name_ja": "",
+    "name_en": "M06",
+    "altitude": "",
+    "latitude": "11.5047500000",
+    "longitude": "107.5462610000"
+  },
+  {
+    "id": "M07",
+    "formal_id": "M07",
+    "name_ja": "",
+    "name_en": "M07",
+    "altitude": "",
+    "latitude": "11.5817970000",
+    "longitude": "107.4560670000"
+  },
+  {
+    "id": "M08",
+    "formal_id": "M08",
+    "name_ja": "",
+    "name_en": "M08",
+    "altitude": "",
+    "latitude": "11.6904580000",
+    "longitude": "107.4110060000"
+  },
+  {
+    "id": "M09",
+    "formal_id": "M09",
+    "name_ja": "",
+    "name_en": "M09",
+    "altitude": "",
+    "latitude": "11.5957670000",
+    "longitude": "107.4326830000"
+  },
+  {
+    "id": "M10",
+    "formal_id": "M10",
+    "name_ja": "",
+    "name_en": "M10",
+    "altitude": "",
+    "latitude": "11.6263530000",
+    "longitude": "107.3376780000"
+  },
+  {
+    "id": "M11",
+    "formal_id": "M11",
+    "name_ja": "",
+    "name_en": "M11",
+    "altitude": "",
+    "latitude": "11.4526780000",
+    "longitude": "107.7043860000"
+  },
+  {
+    "id": "M12",
+    "formal_id": "M12",
+    "name_ja": "",
+    "name_en": "M12",
+    "altitude": "",
+    "latitude": "11.4840560000",
+    "longitude": "107.8089830000"
+  },
+  {
+    "id": "M13",
+    "formal_id": "M13",
+    "name_ja": "",
+    "name_en": "M13",
+    "altitude": "",
+    "latitude": "11.6896940000",
+    "longitude": "107.7193940000"
+  },
+  {
+    "id": "M14",
+    "formal_id": "M14",
+    "name_ja": "",
+    "name_en": "M14",
+    "altitude": "",
+    "latitude": "11.3477890000",
+    "longitude": "107.6396470000"
+  },
+  {
+    "id": "M15",
+    "formal_id": "M15",
+    "name_ja": "",
+    "name_en": "M15",
+    "altitude": "",
+    "latitude": "11.7696830000",
+    "longitude": "107.4888780000"
+  },
+  {
+    "id": "M16",
+    "formal_id": "M16",
+    "name_ja": "",
+    "name_en": "M16",
+    "altitude": "",
+    "latitude": "11.6693440000",
+    "longitude": "107.4739330000"
+  },
+  {
+    "id": "M17",
+    "formal_id": "M17",
+    "name_ja": "",
+    "name_en": "M17",
+    "altitude": "",
+    "latitude": "11.7912890000",
+    "longitude": "107.7571220000"
+  },
+  {
+    "id": "M18",
+    "formal_id": "M18",
+    "name_ja": "",
+    "name_en": "M18",
+    "altitude": "",
+    "latitude": "11.6048030000",
+    "longitude": "107.5694500000"
+  },
+  {
+    "id": "M19",
+    "formal_id": "M19",
+    "name_ja": "",
+    "name_en": "M19",
+    "altitude": "",
+    "latitude": "11.5706920000",
+    "longitude": "107.5933940000"
+  },
+  {
+    "id": "MCO",
+    "formal_id": "MCO",
+    "name_ja": "",
+    "name_en": "MOUNT CON O",
+    "altitude": "",
+    "latitude": "11.6051890000",
+    "longitude": "107.5409000000"
+  },
+  {
+    "id": "R01",
+    "formal_id": "R01",
+    "name_ja": "",
+    "name_en": "CAT TIEN NATIONAL FOREST",
+    "altitude": "",
+    "latitude": "11.4571580000",
+    "longitude": "107.3875330000"
+  },
+  {
+    "id": "R02",
+    "formal_id": "R02",
+    "name_ja": "",
+    "name_en": "R02",
+    "altitude": "",
+    "latitude": "11.4145030000",
+    "longitude": "107.4468670000"
+  },
+  {
+    "id": "R03",
+    "formal_id": "R03",
+    "name_ja": "",
+    "name_en": "R03",
+    "altitude": "",
+    "latitude": "11.5077220000",
+    "longitude": "107.3757360000"
+  },
+  {
+    "id": "R04",
+    "formal_id": "R04",
+    "name_ja": "",
+    "name_en": "R04",
+    "altitude": "",
+    "latitude": "11.6295720000",
+    "longitude": "107.6190690000"
+  },
+  {
+    "id": "R05",
+    "formal_id": "R05",
+    "name_ja": "",
+    "name_en": "TRANG CO 2",
+    "altitude": "",
+    "latitude": "11.6809640000",
+    "longitude": "107.5338750000"
+  },
+  {
+    "id": "R06",
+    "formal_id": "R06",
+    "name_ja": "",
+    "name_en": "DANHAR FOREST",
+    "altitude": "",
+    "latitude": "11.6238580000",
+    "longitude": "107.5534030000"
+  },
+  {
+    "id": "T01",
+    "formal_id": "T01",
+    "name_ja": "",
+    "name_en": "TAKE OFF FLY DATEH",
+    "altitude": "",
+    "latitude": "11.6016500000",
+    "longitude": "107.5520390000"
+  }
+]

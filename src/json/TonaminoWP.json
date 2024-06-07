@@ -1,0 +1,389 @@
+[
+    {
+        "id": "A01",
+        "formal_id": "A01005",
+        "name_ja": "\u783a\u6ce2\u6cb3\u5ddd\u6577\u91ce\u7403\u5834",
+        "name_en": "TONAMIKASENYAKYUUJYOU",
+        "altitude": "50",
+        "latitude": 36.643742,
+        "longitude": 137.00285
+    },
+    {
+        "id": "A74",
+        "formal_id": "A74016",
+        "name_ja": "\u7406\u4f11LD",
+        "name_en": "RIKYU LANDING",
+        "altitude": "162",
+        "latitude": 36.506592,
+        "longitude": 136.90985
+    },
+    {
+        "id": "A75",
+        "formal_id": "A75008",
+        "name_ja": "\u68eeLD",
+        "name_en": "MORI LANDING",
+        "altitude": "78",
+        "latitude": 36.555728,
+        "longitude": 136.910169
+    },
+    {
+        "id": "A76",
+        "formal_id": "A76036",
+        "name_ja": "\u30a4\u30aa\u30c3\u30af\u30b9LD",
+        "name_en": "IOX LANDING",
+        "altitude": "363",
+        "latitude": 36.514886,
+        "longitude": 136.821092
+    },
+    {
+        "id": "A77",
+        "formal_id": "A77011",
+        "name_ja": "\u30ed\u30a4\u30e4\u30ebLD",
+        "name_en": "ROYAL LANDING",
+        "altitude": "113",
+        "latitude": 36.618583,
+        "longitude": 137.017839
+    },
+    {
+        "id": "A78",
+        "formal_id": "A78006",
+        "name_ja": "\u5927\u7530\u6a4bLD",
+        "name_en": "OHTA BRIDGE LANDING",
+        "altitude": "59",
+        "latitude": 36.630375,
+        "longitude": 137.003219
+    },
+    {
+        "id": "A81",
+        "formal_id": "A81006",
+        "name_ja": "\u5c0f\u77e2\u90e8\u5dddLD",
+        "name_en": "OYABEGAWA LANDING",
+        "altitude": "55",
+        "latitude": 36.587261,
+        "longitude": 136.886003
+    },
+    {
+        "id": "A82",
+        "formal_id": "A82001",
+        "name_ja": "\u6d77\u738b\u4e38LD",
+        "name_en": "KAIWOMARU LANDING",
+        "altitude": "1",
+        "latitude": 36.780456,
+        "longitude": 137.110367
+    },
+    {
+        "id": "A84",
+        "formal_id": "A84009",
+        "name_ja": "\u5f01\u8ca1\u5929LD",
+        "name_en": "BENZAITEN LANDING",
+        "altitude": "90",
+        "latitude": 36.588617,
+        "longitude": 136.990586
+    },
+    {
+        "id": "A86",
+        "formal_id": "A86014",
+        "name_ja": "\u624d\u5ddd\u4e03LD",
+        "name_en": "SAIGAWASHICHI LANDING",
+        "altitude": "134",
+        "latitude": 36.528317,
+        "longitude": 136.848508
+    },
+    {
+        "id": "B01",
+        "formal_id": "B01074",
+        "name_ja": "\u524d\u5c71",
+        "name_en": "MAEYAMA",
+        "altitude": "740",
+        "latitude": 36.479881,
+        "longitude": 136.916047
+    },
+    {
+        "id": "B02",
+        "formal_id": "B02056",
+        "name_ja": "\u524d\u5c71\u53cd\u5c04\u677f",
+        "name_en": "MAEYAMA REFLECTOR",
+        "altitude": "564",
+        "latitude": 36.485317,
+        "longitude": 136.917433
+    },
+    {
+        "id": "B03",
+        "formal_id": "B03062",
+        "name_ja": "\u539f\u5c71\u7267\u5834\u7ba1\u7406\u68df",
+        "name_en": "HARAYAMA RANCH",
+        "altitude": "620",
+        "latitude": 36.481911,
+        "longitude": 136.924331
+    },
+    {
+        "id": "B04",
+        "formal_id": "B04060",
+        "name_ja": "\u7b2c\u4e8c\u9ad8\u5727\u5c71",
+        "name_en": "MT-NO2.HIGH VOLTAGE LINE",
+        "altitude": "600",
+        "latitude": 36.498389,
+        "longitude": 136.937119
+    },
+    {
+        "id": "B05",
+        "formal_id": "B05100",
+        "name_ja": "\u30dc\u30fc\u30eb\u306e\u8c37",
+        "name_en": "VALLEY OF THE BALL",
+        "altitude": "972",
+        "latitude": 36.499467,
+        "longitude": 136.9579
+    },
+    {
+        "id": "B06",
+        "formal_id": "B06103",
+        "name_ja": "\u6247\u5c71",
+        "name_en": "MT-OUGI",
+        "altitude": "1032",
+        "latitude": 36.512269,
+        "longitude": 136.971456
+    },
+    {
+        "id": "B07",
+        "formal_id": "B07049",
+        "name_ja": "\u4e95\u53e3\u4e38\u5c71",
+        "name_en": "INOKUCHI MARUYAMA",
+        "altitude": "486",
+        "latitude": 36.520669,
+        "longitude": 136.949617
+    },
+    {
+        "id": "B08",
+        "formal_id": "B08019",
+        "name_ja": "\u8d64\u7956\u7236\u6c60",
+        "name_en": "AKASOFU POND",
+        "altitude": "188",
+        "latitude": 36.525878,
+        "longitude": 136.939164
+    },
+    {
+        "id": "B09",
+        "formal_id": "B09084",
+        "name_ja": "\u5927\u5bfa\u53cd\u5c04\u677f",
+        "name_en": "OHDERA REFLECTOR",
+        "altitude": "847",
+        "latitude": 36.526642,
+        "longitude": 136.968217
+    },
+    {
+        "id": "B10",
+        "formal_id": "B10014",
+        "name_ja": "\u693f\u30db\u30fc\u30e0",
+        "name_en": "TSUBAKI HOME",
+        "altitude": "140",
+        "latitude": 36.535778,
+        "longitude": 136.940017
+    },
+    {
+        "id": "B11",
+        "formal_id": "B11012",
+        "name_ja": "\u4e95\u53e3\u5f79\u5834",
+        "name_en": "INOKUCHI YAKUBA",
+        "altitude": "115",
+        "latitude": 36.542208,
+        "longitude": 136.930772
+    },
+    {
+        "id": "B12",
+        "formal_id": "B12010",
+        "name_ja": "\u783a\u6ce2\u88fd\u4f5c\u6240",
+        "name_en": "TONAMI SEISAKUSHO",
+        "altitude": "99",
+        "latitude": 36.555497,
+        "longitude": 136.948669
+    },
+    {
+        "id": "B13",
+        "formal_id": "B13033",
+        "name_ja": "\u9591\u4e57\u5bfa",
+        "name_en": "KANJHOJI",
+        "altitude": "301",
+        "latitude": 36.558978,
+        "longitude": 136.986497
+    },
+    {
+        "id": "B14",
+        "formal_id": "B14008",
+        "name_ja": "\u9ad8\u702c\u795e\u793e",
+        "name_en": "TAKASE SHRINE",
+        "altitude": "83",
+        "latitude": 36.570942,
+        "longitude": 136.948456
+    },
+    {
+        "id": "B15",
+        "formal_id": "B15051",
+        "name_ja": "\u9262\u4f0f\u5c71",
+        "name_en": "MT-HACHIBUSE",
+        "altitude": "499",
+        "latitude": 36.581044,
+        "longitude": 137.014908
+    },
+    {
+        "id": "B16",
+        "formal_id": "B16066",
+        "name_ja": "\u725b\u5cb3\u30b9\u30ad\u30fc\u5834",
+        "name_en": "USHIDAKE SKI RESORT",
+        "altitude": "657",
+        "latitude": 36.559125,
+        "longitude": 137.054078
+    },
+    {
+        "id": "B17",
+        "formal_id": "B17014",
+        "name_ja": "\u783a\u6ce2\u30ed\u30a4\u30e4\u30eb\u30db\u30c6\u30eb",
+        "name_en": "TONAMI ROYAL HOTEL",
+        "altitude": "143",
+        "latitude": 36.613914,
+        "longitude": 137.017486
+    },
+    {
+        "id": "B18",
+        "formal_id": "B18005",
+        "name_ja": "\u783a\u6ce2\u897f\u90e8\u30b0\u30e9\u30f3\u30c9",
+        "name_en": "TONAMI SEIBU GROUND",
+        "altitude": "50",
+        "latitude": 36.642161,
+        "longitude": 137.002214
+    },
+    {
+        "id": "B19",
+        "formal_id": "B19001",
+        "name_ja": "\u9053\u306e\u99c5\u65b0\u6e4a",
+        "name_en": "MICHINOEKI SHINMINATO",
+        "altitude": "2",
+        "latitude": 36.752061,
+        "longitude": 137.084611
+    },
+    {
+        "id": "B20",
+        "formal_id": "B20012",
+        "name_ja": "\u798f\u5149IC",
+        "name_en": "FUKUMITSU IC",
+        "altitude": "115",
+        "latitude": 36.532303,
+        "longitude": 136.889344
+    },
+    {
+        "id": "B21",
+        "formal_id": "B21017",
+        "name_ja": "\u57ce\u7aef\u7403\u5834",
+        "name_en": "JYOHANA STADIUM",
+        "altitude": "171",
+        "latitude": 36.504372,
+        "longitude": 136.894683
+    },
+    {
+        "id": "B22",
+        "formal_id": "B22010",
+        "name_ja": "\u5357\u783a\u7dcf\u5408\u75c5\u9662",
+        "name_en": "NANTO SOUGOU HOSPITAL",
+        "altitude": "97",
+        "latitude": 36.541736,
+        "longitude": 136.903722
+    },
+    {
+        "id": "B23",
+        "formal_id": "B23020",
+        "name_ja": "\u3068\u306a\u307f\u91ce\u30af\u30e9\u30d6\u30cf\u30a6\u30b9",
+        "name_en": "TONAMINO CLUB HOUSE",
+        "altitude": "201",
+        "latitude": 36.499061,
+        "longitude": 136.900192
+    },
+    {
+        "id": "B24",
+        "formal_id": "B24023",
+        "name_ja": "\u685c\u30f6\u6c60",
+        "name_en": "SAKURAGAIKE",
+        "altitude": "230",
+        "latitude": 36.500739,
+        "longitude": 136.868775
+    },
+    {
+        "id": "B25",
+        "formal_id": "B25016",
+        "name_ja": "\u4e09\u89d2\u305f\u3081\u6c60",
+        "name_en": "SANKAKU TAMEIKE",
+        "altitude": "163",
+        "latitude": 36.544925,
+        "longitude": 136.959208
+    },
+    {
+        "id": "B26",
+        "formal_id": "B26027",
+        "name_ja": "\u7802\u9632\u30c0\u30e0",
+        "name_en": "SABOU DAM",
+        "altitude": "273",
+        "latitude": 36.485789,
+        "longitude": 136.905228
+    },
+    {
+        "id": "B27",
+        "formal_id": "B27006",
+        "name_ja": "\u6771\u77f3\u9ed2\u99c5",
+        "name_en": "JR HIGASHIISHIGURO ST",
+        "altitude": "59",
+        "latitude": 36.576206,
+        "longitude": 136.898517
+    },
+    {
+        "id": "B28",
+        "formal_id": "B28006",
+        "name_ja": "\u783a\u6ce2IC",
+        "name_en": "TONAMI IC",
+        "altitude": "59",
+        "latitude": 36.625739,
+        "longitude": 136.954447
+    },
+    {
+        "id": "B29",
+        "formal_id": "B29005",
+        "name_ja": "\u5c0f\u77e2\u90e8\u783a\u6ce2JC",
+        "name_en": "OYABE TONAMI JC",
+        "altitude": "45",
+        "latitude": 36.630467,
+        "longitude": 136.90865
+    },
+    {
+        "id": "D91",
+        "formal_id": "D91100",
+        "name_ja": "\u3064\u304f\u3070\u306dTO1",
+        "name_en": "TSUKUBANE TO1",
+        "altitude": "988",
+        "latitude": 36.472319,
+        "longitude": 136.926025
+    },
+    {
+        "id": "D92",
+        "formal_id": "D92083",
+        "name_ja": "\u3064\u304f\u3070\u306dTO2",
+        "name_en": "TSUKUBANE TO2",
+        "altitude": "827",
+        "latitude": 36.478183,
+        "longitude": 136.928894
+    },
+    {
+        "id": "D95",
+        "formal_id": "D95073",
+        "name_ja": "\u30a4\u30aa\u30c3\u30af\u30b9TO",
+        "name_en": "IOX TO",
+        "altitude": "726",
+        "latitude": 36.512397,
+        "longitude": 136.806489
+    },
+    {
+        "id": "D96",
+        "formal_id": "D96063",
+        "name_ja": "\u516b\u4e59\u5973TO",
+        "name_en": "YAOTOME TO",
+        "altitude": "633",
+        "latitude": 36.541425,
+        "longitude": 136.978731
+    }
+]
