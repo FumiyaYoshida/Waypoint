@@ -243,7 +243,7 @@ const Asagiri = () => {
 			unit: 'metric'
     }));
 
-    map.current.on('click', function (e: any) {
+    map.current.on('click', function () {
 			before_highlight_ctr_id = now_highlight_ctr_id;
 			now_highlight_ctr_id = null;
 			map.current.getSource('highlight_ctr').setData(empty_data);
